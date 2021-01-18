@@ -1,1 +1,1 @@
-Keyboard Reference Project
+LZ Keyboard Reference Project
