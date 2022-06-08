@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: K:\Project\KBD\00. Doughter\Type-C_DB_R6\Type-C_DB_R6.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=type-c_db_r6-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=type-c_db_r6-slotholes.txt|DrillLayers=gtl,gbl
