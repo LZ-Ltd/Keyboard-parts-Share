@@ -1,5 +1,0 @@
-DRC Rules Export File for PCB: K:\Project\KBD\00. Doughter\Type-C_DB_R6\Type-C_DB_R6.PcbDoc
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.89
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
